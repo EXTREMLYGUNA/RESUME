@@ -19,15 +19,13 @@ function App() {
   <a onClick={(image)=>show(image)} href={image} className='click' ><img src={image} className='image' /></a>
   <p className='details' >
     <b style={{color:"red"}}  >NAME</b>&nbsp;&nbsp;&nbsp; :<b style={{color:"green"}} > GUNASEKAR.V <b style={{color:"red"}}>,</b></b><br/>
-    <b style={{color:"red"}} >ADDRESS</b> : <b style={{color:"green"}} >Melkavanoor village, Thamoodharanpettai,<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K.V.kuppam Taluk, Vellore district <b style={{color:"red"}}>,</b> </b><br/>
     <b style={{color:"red"}}>EMAIL</b>&nbsp;&nbsp; : <a href='https://mail.google.com/mail/u/0/#inbox' className='email' >gunasekar17329777577amma@gmail.com <b style={{color:"red"}}>,</b></a><br/>
-    <b style={{color:"red"}}>PINCODE</b> : <b  style={{color:"green"}}>632209 <b style={{color:"red"}}>,</b></b><br/>
     <b style={{color:"red"}}>MOBILE</b>&nbsp; : <b  style={{color:"green"}}>6380720250 <b style={{color:"red"}}>/</b> 8148932075 <b style={{color:"red"}}>,</b></b><br/>
     <hr/>
     </p>
 
     <div>
-      <h4 className='career'>CAREER OBJECTS</h4>
+      <h4 className='career'>CAREER OBJECTIVE</h4>
       <p className='object' >To work with maximum potential in a challenging and dynamic environment. I am looking forward to effectively utilize my knowledge and skills and give my best for the growth of the company.</p>
     </div><br/>
 
@@ -43,6 +41,12 @@ function App() {
         </tr>
       </thead>
       <tbody>
+      <tr>
+          <td>B.TECH<sub style={{color:"red"}} >(EEE)</sub></td>
+          <td>2025</td>
+          <td>SRM Instute of Technology, Katangulathur</td>
+          <td>Currently Studying<br/><b style={{color:"red"}} >Final Year</b></td>
+        </tr>
         <tr>
           <td>SSLC</td>
           <td>2015</td>
@@ -60,12 +64,6 @@ function App() {
           <td>2019</td>
           <td>Rajagopal Polytechnic College, Gudiyatham</td>
           <td>83%</td>
-        </tr>
-        <tr>
-          <td>B.TECH<sub style={{color:"red"}} >(EEE)</sub></td>
-          <td>2025</td>
-          <td>Government Boys Higher Secondary School, K.V.Kuppam</td>
-          <td>Currently Studying<br/><b style={{color:"red"}} >Final Year</b></td>
         </tr>
       </tbody>
     </Table>
@@ -131,18 +129,7 @@ function App() {
     <div>
     <h4 className='career'>TECHNICAL SKILLS</h4>
     <ul className='strength'>
-      <li>MS office & Systematic skills</li>
-      <li>AutoCAD (Basic)</li>
-      <li>Time Management</li>
-      <li>Communication</li>
-    </ul>
-    </div>
-
-    <div>
-    <h4 className='career'>IT SKILLS</h4>
-    <h4 className='itskill'>GUVI INSTITUE</h4>
-    <ul className='strength'>
-      <h4 style={{color:"red",fontWeight:"bold"}} >FRONT END</h4>
+    <h4 style={{color:"red",fontWeight:"bold"}} >FRONT END</h4>
       <li>HTML</li>
       <li>CSS</li>
       <li>JAVASCRIPT</li>
@@ -159,8 +146,7 @@ function App() {
 
     <div>
       <h4 className='career'>AREA OF INTEREST</h4>
-      <p className='object' >Eager to develop my knowledge in Supervising Production Area
-      And Intrested to Work in Logistics And Planning</p>
+      <p className='object' style={{display:"inline-block"}} >Eager to develope my knowledge in Information Technology (IT) as a fresher in <div style={{color:"blue"}}>FULLSTACK WEB DEVELOPER</div> </p>
     </div>
 
     <h4 className='career'>PERSONAL DETAILS</h4>
@@ -174,7 +160,8 @@ function App() {
     <b style={{color:"red"}}  >NATIONALITY</b> :<b style={{color:"green"}} > INDIA <b style={{color:"red"}}>,</b></b><br/>
     <b style={{color:"red"}}  >RELIGION</b> :<b style={{color:"green"}} > HINDU <b style={{color:"red"}}>,</b></b><br/>
     <b style={{color:"red"}}  >LANGUAGES</b> :<b style={{color:"green"}} > TAMIL,ENGLISH <b style={{color:"red"}}>,</b></b><br/>
-    <b style={{color:"red"}}  >ADDRESS</b> :<b style={{color:"green"}} > MELKAVANUR VILLAGE, THAMOODHIRAN PETTAI, K.V.KUPPAM TALUK,, VELLORE DISTRICT <b style={{color:"red"}}>,</b></b><br/>
+    <b style={{color:"red"}}  >ADDRESS</b> :<b style={{color:"green"}} > MELKAVANUR VILLAGE, THAMOODHARAN PETTAI, K.V.KUPPAM TALUK,, VELLORE DISTRICT <b style={{color:"red"}}>,</b></b><br/>
+    <b style={{color:"red"}}>PINCODE</b> : <b  style={{color:"green"}}>632209 <b style={{color:"red"}}>,</b></b><br/>
     </p>
 
     <div>
