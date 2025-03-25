@@ -14,6 +14,7 @@ function App() {
 
   <div className='overlay' ></div>
   <div className='cover'>
+    <div className='move' >
   <h1 className='resume' >RESUME</h1>
   <a onClick={(image)=>show(image)} href={image} className='click' ><img src={image} className='image' /></a>
   <p className='details' >
@@ -183,7 +184,7 @@ function App() {
     </div><br/>
 
     
-
+    </div>
   </div>
 
   </>)
