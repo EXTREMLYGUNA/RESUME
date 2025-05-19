@@ -14,13 +14,21 @@ function App() {
 
   <div className='overlay' ></div>
   <div className='cover'>
-    <div className='move' >
+  <div className='move' >
   <h1 className='resume' >RESUME</h1>
   <a onClick={(image)=>show(image)} href={image} className='click' ><img src={image} className='image' /></a>
   <p className='details' >
-    <b style={{color:"red"}}  >NAME</b>&nbsp;&nbsp;&nbsp; :<b style={{color:"green"}} > GUNASEKAR.V <b style={{color:"red"}}>,</b></b><br/>
-    <b style={{color:"red"}}>EMAIL</b>&nbsp;&nbsp; : <a href='https://mail.google.com/mail/u/0/#inbox' className='email' >gunasekar17329777577amma@gmail.com <b style={{color:"red"}}>,</b></a><br/>
-    <b style={{color:"red"}}>MOBILE</b>&nbsp; : <b  style={{color:"green"}}>6380720250 <b style={{color:"red"}}>/</b> 8148932075 <b style={{color:"red"}}>,</b></b><br/>
+    <b style={{color:"red"}}  >NAME</b>&nbsp;&nbsp;&nbsp; :<b style={{color:"green"}} > GUNASEKAR.V <b style={{color:"red"}}></b></b><br/>
+    <b style={{color:"red"}}>EMAIL</b>&nbsp;&nbsp; : <a href='https://mail.google.com/mail/u/0/#inbox' className='email' >gunasekar17329777577amma@gmail.com <b style={{color:"red"}}></b></a><br/>
+    <b style={{color:"red"}}>MOBILE</b>&nbsp; : <b  style={{color:"green"}}>6380720250 <b style={{color:"red"}}>/</b> 8148932075 <b style={{color:"red"}}></b></b><br/>
+    <div className='websites'>
+    <a href='https://www.linkedin.com/in/gunasekar-v-0a1054288' className='LinkedIn' ><b style={{color:"red"}}><img src='https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000' style={{height:"50px",width:"50px"}} /></b></a>
+    <a href='https://www.instagram.com/extremlyguna1999?igsh=MWs1bW1icmZhbTBpMg==' className='Instagram' ><b style={{color:"red"}}><img src='https://logos-world.net/wp-content/uploads/2020/04/Instagram-icon-Logo-2016-present.png' style={{height:"40px",width:"70px"}} /></b></a>
+    <a href='https://www.facebook.com/extremlyguna.2025?mibextid=ZbWKwL' className='Facebook' ><b style={{color:"red"}}><img src='https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19759.png' style={{height:"50px",width:"60px"}} /></b></a>&nbsp;&nbsp;
+    <a href='https://x.com/GUNASEK29112420?t=WTcE9roKZeKOozPnCzTJ9Q&s=08' className='Twitter' ><b style={{color:"red"}}><img src='https://freepnglogo.com/images/all_img/1707226109new-twitter-logo-png.png' style={{height:"40px",width:"40px"}} /></b></a>&nbsp;&nbsp;
+    <a href='https://wa.me/qr/BWQKUIFZ2S6VK1' className='Whatsapp' ><b style={{color:"red"}}><img src='https://static.vecteezy.com/system/resources/previews/016/716/480/non_2x/whatsapp-icon-free-png.png' style={{height:"40px",width:"40px"}} /></b></a>&nbsp;&nbsp;
+    <a href='t.me/GUNA_RANJITHAM' className='Telegram' ><b style={{color:"red"}}><img src='https://static.vecteezy.com/system/resources/previews/018/930/708/large_2x/telegram-logo-telegram-icon-transparent-free-png.png' style={{height:"60px",width:"60px"}} /></b></a>&nbsp;&nbsp;
+    </div>
     <hr/>
     </p>
 
@@ -128,6 +136,7 @@ function App() {
 
     <div>
     <h4 className='career'>TECHNICAL SKILLS</h4>
+    <h4 className='guvi'>Guvi Institute</h4>
     <ul className='strength'>
     <h4 style={{color:"red",fontWeight:"bold"}} >FRONT END</h4>
       <li>HTML</li>

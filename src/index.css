@@ -32,6 +32,14 @@
   background-color: antiquewhite;
   margin-left: 268px;
 }
+.guvi{
+  display: flex;
+  width: 955px;
+  font-weight:bold;
+  text-align: left;
+  background-color: rgb(3, 173, 63);
+  margin-left: 268px;
+}
 .object{
   display: flex;
   width: 955px;
@@ -68,10 +76,10 @@
 }
 .image{
   display: flex;
-  position: fixed;
+  position: absolute;
   width: 100px;
   height: 100px;
-  margin-left: 1235px;
+  margin-left: 1120px;
 }
 .overlay{
   background-color: black;
@@ -90,6 +98,9 @@
 }
 .move{
   margin-left: -170px;
+}
+.websites{
+  margin-left: -8px;
 }
 @media screen and ( min-width: 100px )
 {
