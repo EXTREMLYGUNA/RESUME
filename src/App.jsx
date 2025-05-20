@@ -147,7 +147,7 @@ function App() {
       <li>NODE.JS</li>
       <li>EXPRESS</li>
       <li>JAVASCRIPT</li>
-      <li>SQL</li>
+      <li>MYSQL</li>
       <li>MONGODB</li>
       <li>POSTMAN</li>
     </ul>
