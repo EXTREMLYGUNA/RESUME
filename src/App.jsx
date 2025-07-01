@@ -22,12 +22,12 @@ function App() {
     <b style={{color:"red"}}>EMAIL</b>&nbsp;&nbsp; : <a href='https://mail.google.com/mail/u/0/#inbox' className='email' >gunasekar17329777577amma@gmail.com <b style={{color:"red"}}></b></a><br/>
     <b style={{color:"red"}}>MOBILE</b>&nbsp; : <b  style={{color:"green"}}>6380720250 <b style={{color:"red"}}>/</b> 8148932075 <b style={{color:"red"}}></b></b><br/>
     <div className='websites'>
-    <a href='https://www.linkedin.com/in/gunasekar-v-0a1054288' className='LinkedIn' ><b style={{color:"red"}}><img src='https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000' style={{height:"50px",width:"50px"}} /></b></a>
-    <a href='https://www.instagram.com/extremlyguna1999?igsh=MWs1bW1icmZhbTBpMg==' className='Instagram' ><b style={{color:"red"}}><img src='https://logos-world.net/wp-content/uploads/2020/04/Instagram-icon-Logo-2016-present.png' style={{height:"40px",width:"70px"}} /></b></a>
-    <a href='https://www.facebook.com/extremlyguna.2025?mibextid=ZbWKwL' className='Facebook' ><b style={{color:"red"}}><img src='https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19759.png' style={{height:"50px",width:"60px"}} /></b></a>&nbsp;&nbsp;
-    <a href='https://x.com/GUNASEK29112420?t=WTcE9roKZeKOozPnCzTJ9Q&s=08' className='Twitter' ><b style={{color:"red"}}><img src='https://freepnglogo.com/images/all_img/1707226109new-twitter-logo-png.png' style={{height:"40px",width:"40px"}} /></b></a>&nbsp;&nbsp;
-    <a href='https://wa.me/qr/BWQKUIFZ2S6VK1' className='Whatsapp' ><b style={{color:"red"}}><img src='https://static.vecteezy.com/system/resources/previews/016/716/480/non_2x/whatsapp-icon-free-png.png' style={{height:"40px",width:"40px"}} /></b></a>&nbsp;&nbsp;
-    <a href='t.me/GUNA_RANJITHAM' className='Telegram' ><b style={{color:"red"}}><img src='https://static.vecteezy.com/system/resources/previews/018/930/708/large_2x/telegram-logo-telegram-icon-transparent-free-png.png' style={{height:"60px",width:"60px"}} /></b></a>&nbsp;&nbsp;
+    <a href='https://www.linkedin.com/in/gunasekar-v-0a1054288' className='LinkedIn' ><b ><img src='https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000' style={{height:"50px",width:"50px"}} /></b></a>
+    <a href='https://www.instagram.com/extremlyguna1999?igsh=MWs1bW1icmZhbTBpMg==' className='Instagram' ><b ><img src='https://logos-world.net/wp-content/uploads/2020/04/Instagram-icon-Logo-2016-present.png' style={{height:"40px",width:"70px"}} /></b></a>
+    <a href='https://www.facebook.com/extremlyguna.2025?mibextid=ZbWKwL' className='Facebook' ><b><img src='https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19759.png' style={{height:"50px",width:"60px"}} /></b></a>&nbsp;&nbsp;
+    <a href='https://x.com/GUNASEK29112420?t=WTcE9roKZeKOozPnCzTJ9Q&s=08' className='Twitter' ><b><img src='https://freepnglogo.com/images/all_img/1707226109new-twitter-logo-png.png' style={{height:"40px",width:"40px"}} /></b></a>&nbsp;&nbsp;
+    <a href='https://wa.me/qr/BWQKUIFZ2S6VK1' className='Whatsapp' ><b><img src='https://static.vecteezy.com/system/resources/previews/016/716/480/non_2x/whatsapp-icon-free-png.png' style={{height:"40px",width:"40px"}} /></b></a>&nbsp;&nbsp;
+    <a href='https://github.com/EXTREMLYGUNA' className='Github' ><b><img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' style={{height:"40px",width:"45px"}} /></b></a>&nbsp;&nbsp;
     </div>
     <hr/>
     </p>
@@ -52,7 +52,7 @@ function App() {
       <tr>
           <td>B.TECH<sub style={{color:"red"}} >(EEE)</sub></td>
           <td>2025</td>
-          <td>SRM Instute of Technology, Katangulathur</td>
+          <td>SRM Institute of Technology, Katangulathur</td>
           <td>Currently Studying<br/><b style={{color:"red"}} >Final Year</b></td>
         </tr>
         <tr>
@@ -155,22 +155,22 @@ function App() {
 
     <div>
       <h4 className='career'>AREA OF INTEREST</h4>
-      <p className='object' style={{display:"inline-block"}} >Eager to develope my knowledge in Information Technology (IT) as a fresher in <div style={{color:"blue"}}>FULLSTACK WEB DEVELOPER</div> </p>
+      <p className='object' style={{display:"inline-block"}} >Eager to develope my knowledge in Manufacturing and Information Technology (IT) as a fresher in <div style={{color:"blue",display:"inline"}}>FULLSTACK WEB DEVELOPER</div> </p>
     </div>
 
     <h4 className='career'>PERSONAL DETAILS</h4>
     <p className='personal' >
-    <b style={{color:"red"}}  >FULL NAME</b> :<b style={{color:"green"}} > GUNASEKAR.V <b style={{color:"red"}}>,</b></b><br/>
-    <b style={{color:"red"}} >FATHER'S NAME</b> : <b style={{color:"green"}} >VIJAYARANGAN.M <b style={{color:"red"}}>,</b> </b><br/>
-    <b style={{color:"red"}}>MOTHER'S NAME</b> : <b style={{color:"green"}} >RANJITHAM.V <b style={{color:"red"}}>,</b></b><br/>
-    <b style={{color:"red"}}>DATE OF BIRTH</b> : <b  style={{color:"green"}}>14<b style={{color:"red"}}>/</b>12<b style={{color:"red"}}>/</b>1999 <b style={{color:"red"}}>,</b></b><br/>
-    <b style={{color:"red"}}>GENDER</b> : <b  style={{color:"green"}}>MALE <b style={{color:"red"}}>,</b></b><br/>
-    <b style={{color:"red"}}  >MARRIGE STATUS</b> :<b style={{color:"green"}} > SINGLE<b style={{color:"red"}}>,</b></b><br/>
-    <b style={{color:"red"}}  >NATIONALITY</b> :<b style={{color:"green"}} > INDIA <b style={{color:"red"}}>,</b></b><br/>
-    <b style={{color:"red"}}  >RELIGION</b> :<b style={{color:"green"}} > HINDU <b style={{color:"red"}}>,</b></b><br/>
-    <b style={{color:"red"}}  >LANGUAGES</b> :<b style={{color:"green"}} > TAMIL,ENGLISH <b style={{color:"red"}}>,</b></b><br/>
-    <b style={{color:"red"}}  >ADDRESS</b> :<b style={{color:"green"}} > MELKAVANUR VILLAGE, THAMOODHARAN PETTAI, K.V.KUPPAM TALUK,, VELLORE DISTRICT <b style={{color:"red"}}>,</b></b><br/>
-    <b style={{color:"red"}}>PINCODE</b> : <b  style={{color:"green"}}>632209 <b style={{color:"red"}}>,</b></b><br/>
+    <b style={{color:"red"}} >FULL NAME</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                : <b style={{color:"green"}} > GUNASEKAR.V </b><br/>
+    <b style={{color:"red"}} >FATHER'S NAME</b>&nbsp;                                    : <b style={{color:"green"}} > VIJAYARANGAN.M </b><br/>
+    <b style={{color:"red"}} >MOTHER'S NAME</b>&nbsp;                                    : <b style={{color:"green"}} > RANJITHAM.V </b><br/>
+    <b style={{color:"red"}} >DATE OF BIRTH</b>&nbsp;                                    : <b style={{color:"green"}} > 14<b style={{color:"red"}}>/</b>12<b style={{color:"red"}}>/</b>1999</b><br/>
+    <b style={{color:"red"}} >GENDER</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <b style={{color:"green"}} > MALE </b><br/>
+    <b style={{color:"red"}} >MARRIGE STATUS</b>                                         : <b style={{color:"green"}} > SINGLE</b><br/>
+    <b style={{color:"red"}} >NATIONALITY</b>&nbsp;&nbsp;&nbsp;                          : <b style={{color:"green"}} > INDIA </b><br/>
+    <b style={{color:"red"}} >RELIGION</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           : <b style={{color:"green"}} > HINDU </b><br/>
+    <b style={{color:"red"}} >LANGUAGES</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                : <b style={{color:"green"}} > TAMIL,ENGLISH </b><br/>
+    <b style={{color:"red"}} >ADDRESS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      : <b style={{color:"green"}} > MELKAVANUR VILLAGE, THAMOODHARAN PETTAI, K.V.KUPPAM - TALUK, VELLORE DISTRICT </b><br/>
+    <b style={{color:"red"}} >PINCODE</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <b style={{color:"green"}} > 632209</b><br/>
     </p>
 
     <div>
