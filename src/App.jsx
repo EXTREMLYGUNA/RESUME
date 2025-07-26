@@ -19,12 +19,12 @@ function App() {
   <a onClick={(image)=>show(image)} href={image} className='click' ><img src={image} className='image' /></a>
   <p className='details' >
     <b style={{color:"red"}}  >NAME</b>&nbsp;&nbsp;&nbsp; :<b style={{color:"green"}} > GUNASEKAR.V <b style={{color:"red"}}></b></b><br/>
-    <b style={{color:"red"}}>EMAIL</b>&nbsp;&nbsp; : <a href='https://mail.google.com/mail/u/0/#inbox' className='email' >gunasekar17329777577amma@gmail.com <b style={{color:"red"}}></b></a><br/>
+    <b style={{color:"red"}}>EMAIL</b>&nbsp;&nbsp; : <a href='https://mail.google.com/mail/u/0/#inbox' className='email' >gunasekar17329777557amma@gmail.com <b style={{color:"red"}}></b></a><br/>
     <b style={{color:"red"}}>MOBILE</b>&nbsp; : <b  style={{color:"green"}}>6380720250 <b style={{color:"red"}}>/</b> 8148932075 <b style={{color:"red"}}></b></b><br/>
     <div className='websites'>
     <a href='https://www.linkedin.com/in/gunasekar-v-0a1054288' className='LinkedIn' ><b ><img src='https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000' style={{height:"50px",width:"50px"}} /></b></a>
     <a href='https://www.instagram.com/extremlyguna1999?igsh=MWs1bW1icmZhbTBpMg==' className='Instagram' ><b ><img src='https://logos-world.net/wp-content/uploads/2020/04/Instagram-icon-Logo-2016-present.png' style={{height:"40px",width:"70px"}} /></b></a>
-    <a href='https://www.facebook.com/extremlyguna.2025?mibextid=ZbWKwL' className='Facebook' ><b><img src='https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19759.png' style={{height:"50px",width:"60px"}} /></b></a>&nbsp;&nbsp;
+    <a href='https://www.facebook.com/extremlyguna.2025?mibextid=ZbWKwL' className='Facebook' ><b><img src='https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19759.png' alt='Facebook' style={{height:"50px",width:"60px"}} /></b></a>&nbsp;&nbsp;
     <a href='https://x.com/GUNASEK29112420?t=WTcE9roKZeKOozPnCzTJ9Q&s=08' className='Twitter' ><b><img src='https://freepnglogo.com/images/all_img/1707226109new-twitter-logo-png.png' style={{height:"40px",width:"40px"}} /></b></a>&nbsp;&nbsp;
     <a href='https://wa.me/qr/BWQKUIFZ2S6VK1' className='Whatsapp' ><b><img src='https://static.vecteezy.com/system/resources/previews/016/716/480/non_2x/whatsapp-icon-free-png.png' style={{height:"40px",width:"40px"}} /></b></a>&nbsp;&nbsp;
     <a href='https://github.com/EXTREMLYGUNA' className='Github' ><b><img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' style={{height:"40px",width:"45px"}} /></b></a>&nbsp;&nbsp;
@@ -50,9 +50,9 @@ function App() {
       </thead>
       <tbody>
       <tr>
-          <td>B.TECH<sub style={{color:"red"}} >(EEE)</sub></td>
+          <td>B.TECH<sub style={{color:"red"}} >(EEE)</sub></td> 
           <td>2025</td>
-          <td>SRM Institute of Technology, Katangulathur</td>
+          <td>SRM Institute of Science and Technology, Katangulathur</td>
           <td>Currently Studying<br/><b style={{color:"red"}} >Final Year</b></td>
         </tr>
         <tr>
