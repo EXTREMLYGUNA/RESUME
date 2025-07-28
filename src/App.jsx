@@ -124,13 +124,22 @@ function App() {
     <div>
     <h4 className='career'>MANUFACTURING</h4>
     <ul className='strength'>
+      <li>Good knlowledge of machine operating and controlling</li>
+      <li>Little bit of knowledge for cutting tool GD & T</li>
       <li>Carry out Production,inspection,and Machine operation duties</li>
       <li>Setup Machinery & Ensure All materials are readily Available</li>
       <li>Effectively Monitor production equipment</li>
+      <li>Manpower Handling</li>
+      <li>Relevent measuring instruments to use</li>
+      <li>Various meeting / action to communicate instructions</li>
+      <li>Training and developement for guiding to operate machines</li>
+      <li>Ensure that all safety rules and regulations are strictly observed</li>
       <li>Perform Appropriate duties as assigned by management</li>
       <li>Maintain a safe and maintaining 5s Activity</li>
       <li>Follow established safety rules and regulations</li>
       <li>Prevantive Maintenance in machinery area</li>
+      <li>Analysis for problem occured st root cause and resolve solutions</li>
+      <li>Working to the sift and overall plan, Availability checking and reporting</li>
     </ul>
     </div>
 
